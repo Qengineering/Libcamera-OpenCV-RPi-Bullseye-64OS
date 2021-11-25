@@ -1,9 +1,8 @@
 # Libcamera OpenCV RPi Bullseye 64OS
 ![output image]( https://qengineering.eu/images/CameraWall.webp )<br/>
-## GStreamer Libcamera + OpenCV on a Raspberry Pi 4 with 64-bit OS Bullseye
+## Libcamera + OpenCV on a Raspberry Pi 4 with 64-bit Bullseye OS
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
-In the new Debian 11, Bullseye, you can only capture live video with a streaming framework, like GStreamer or FFmpeg<br/>
-This is an example of libcamera working on a Raspberry Pi with an 64-bits OS.<br/>
+In the new Debian 11, Bullseye, you can only capture live video with a streaming framework, like GStreamer or FFmpeg. This is an example of libcamera working on a Raspberry Pi with an 64-bits OS.<br/>
 
 ------------
 
