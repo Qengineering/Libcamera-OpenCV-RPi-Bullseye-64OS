@@ -51,3 +51,8 @@ As long it's a valid combination, it will work. For instance:<br/>
     int display_height = 480 ;
     int framerate = 90 ;
 ```
+
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+
